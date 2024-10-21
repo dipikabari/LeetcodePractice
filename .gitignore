@@ -1,0 +1,10 @@
+# Ignore workspace settings and user-specific files
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+
+# Ignore build and derived data
+build/
+DerivedData/
+
+
