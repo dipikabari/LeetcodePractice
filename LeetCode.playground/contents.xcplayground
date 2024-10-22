@@ -10,5 +10,6 @@
         <page name='ValidAnagram'/>
         <page name='RepeatedSubstring'/>
         <page name='MoveZerosInArray'/>
+        <page name='PlusOneIntergerArray'/>
     </pages>
 </playground>
