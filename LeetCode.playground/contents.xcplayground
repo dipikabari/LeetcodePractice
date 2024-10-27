@@ -12,5 +12,6 @@
         <page name='MoveZerosInArray'/>
         <page name='PlusOneIntergerArray'/>
         <page name='SignOfProductOfArray'/>
+        <page name='ArithmeticProgressionInArray'/>
     </pages>
 </playground>
