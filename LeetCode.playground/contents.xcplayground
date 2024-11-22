@@ -13,5 +13,8 @@
         <page name='PlusOneIntergerArray'/>
         <page name='SignOfProductOfArray'/>
         <page name='ArithmeticProgressionInArray'/>
+        <page name='MonotonicArray'/>
+        <page name='RomanToInteger'/>
+        <page name='LengthOfLastWord'/>
     </pages>
 </playground>
