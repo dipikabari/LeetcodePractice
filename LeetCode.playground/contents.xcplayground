@@ -16,5 +16,12 @@
         <page name='MonotonicArray'/>
         <page name='RomanToInteger'/>
         <page name='LengthOfLastWord'/>
+        <page name='StringToLowerCase'/>
+        <page name='Interview_MessageSequenceOrdering'/>
+        <page name='CalculatePointsBaseballGame'/>
+        <page name='RobotReturnToOrigin'/>
+        <page name='TicTacToe'/>
+        <page name='RobotBoundInCircle'/>
+        <page name='RichestCustomerWealth'/>
     </pages>
 </playground>
