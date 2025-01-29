@@ -23,5 +23,7 @@
         <page name='TicTacToe'/>
         <page name='RobotBoundInCircle'/>
         <page name='RichestCustomerWealth'/>
+        <page name='MatrixDiagonalSum'/>
+        <page name='MatrixTraverseSpirallyInwards'/>
     </pages>
 </playground>
