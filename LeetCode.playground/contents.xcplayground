@@ -24,6 +24,8 @@
         <page name='RobotBoundInCircle'/>
         <page name='RichestCustomerWealth'/>
         <page name='MatrixDiagonalSum'/>
+        <page name='MatrixSetZeroes'/>
         <page name='MatrixTraverseSpirallyInwards'/>
+        <page name='CountOddNumbers'/>
     </pages>
 </playground>
